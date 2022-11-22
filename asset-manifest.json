@@ -1,15 +1,41 @@
 {
   "files": {
     "main.css": "/static/css/main.9de79902.css",
-    "main.js": "/static/js/main.0a938fa6.js",
+    "main.js": "/static/js/main.636f3303.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/rear-unselected.png": "/static/media/rear-unselected.b30e19c804d6d14e6e3c.png",
+    "static/media/front-unselected.png": "/static/media/front-unselected.d086817b0c4c37f484f5.png",
+    "static/media/car.png": "/static/media/car.a7f2c60ebbb909a45346.png",
+    "static/media/front-trunc-selected.png": "/static/media/front-trunc-selected.76e4744e9280a80fbb75.png",
+    "static/media/front-arm-left-selected.png": "/static/media/front-arm-left-selected.30c555379c3ffd82d672.png",
+    "static/media/front-trunc-hover.png": "/static/media/front-trunc-hover.4f3afe2e1ff7dd5b6d6c.png",
+    "static/media/front-arm-right-selected.png": "/static/media/front-arm-right-selected.2d043f89b3cc01080dde.png",
+    "static/media/front-head-selected.png": "/static/media/front-head-selected.055e6cae96984fa2223a.png",
+    "static/media/rear-arm-right-selected.png": "/static/media/rear-arm-right-selected.1e68d850593ddafd1b15.png",
+    "static/media/front-arm-right-hover.png": "/static/media/front-arm-right-hover.7f2c6aa0a0a5baedeca8.png",
+    "static/media/front-arm-left-hover.png": "/static/media/front-arm-left-hover.cca3394f45bcaaff55f2.png",
+    "static/media/rear-arm-left-selected.png": "/static/media/rear-arm-left-selected.5938c1fafa65e8a88e52.png",
+    "static/media/rear-trunc-selected.png": "/static/media/rear-trunc-selected.a4cd27c1039ccbaee4c9.png",
+    "static/media/rear-arm-right-hover.png": "/static/media/rear-arm-right-hover.a46274a79dd466d0b84e.png",
+    "static/media/front-head-hover.png": "/static/media/front-head-hover.98d25725392bbf920d85.png",
+    "static/media/front-leg-right-selected.png": "/static/media/front-leg-right-selected.befbe00fd6dc75d166d7.png",
+    "static/media/rear-trunc-hover.png": "/static/media/rear-trunc-hover.af1db1fc37341e54344f.png",
+    "static/media/front-leg-left-selected.png": "/static/media/front-leg-left-selected.b49288ad655ec4ffabae.png",
+    "static/media/rear-head-selected.png": "/static/media/rear-head-selected.cf0914bc91223e594a11.png",
+    "static/media/front-leg-right-hover.png": "/static/media/front-leg-right-hover.de24b2b7b4f7849c364e.png",
+    "static/media/front-leg-left-hover.png": "/static/media/front-leg-left-hover.58f46eaa643de34fabfd.png",
+    "static/media/rear-leg-right-selected.png": "/static/media/rear-leg-right-selected.18845f056ffb068d09aa.png",
+    "static/media/rear-leg-left-selected.png": "/static/media/rear-leg-left-selected.7bcd3a76c4a85d440547.png",
+    "static/media/rear-head-hover.png": "/static/media/rear-head-hover.aa8ca998b1b448a245f2.png",
+    "static/media/rear-leg-right-hover.png": "/static/media/rear-leg-right-hover.f7fb4a737d4e1f1de7c8.png",
+    "static/media/rear-leg-left-hover.png": "/static/media/rear-leg-left-hover.09ec9c4383b3df822715.png",
     "index.html": "/index.html",
     "main.9de79902.css.map": "/static/css/main.9de79902.css.map",
-    "main.0a938fa6.js.map": "/static/js/main.0a938fa6.js.map",
+    "main.636f3303.js.map": "/static/js/main.636f3303.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9de79902.css",
-    "static/js/main.0a938fa6.js"
+    "static/js/main.636f3303.js"
   ]
 }
