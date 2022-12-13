@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.9de79902.css",
-    "main.js": "/static/js/main.10008da0.js",
+    "main.js": "/static/js/main.2338e420.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/rear-unselected.png": "/static/media/rear-unselected.b30e19c804d6d14e6e3c.png",
     "static/media/front-unselected.png": "/static/media/front-unselected.d086817b0c4c37f484f5.png",
     "static/media/car.png": "/static/media/car.a7f2c60ebbb909a45346.png",
-    "static/media/cn-approved.jpg": "/static/media/cn-approved.bcd22a58472383edcaa5.jpg",
     "static/media/front-trunc-selected.png": "/static/media/front-trunc-selected.76e4744e9280a80fbb75.png",
     "static/media/front-arm-left-selected.png": "/static/media/front-arm-left-selected.30c555379c3ffd82d672.png",
     "static/media/front-trunc-hover.png": "/static/media/front-trunc-hover.4f3afe2e1ff7dd5b6d6c.png",
@@ -32,11 +31,11 @@
     "static/media/rear-leg-left-hover.png": "/static/media/rear-leg-left-hover.09ec9c4383b3df822715.png",
     "index.html": "/index.html",
     "main.9de79902.css.map": "/static/css/main.9de79902.css.map",
-    "main.10008da0.js.map": "/static/js/main.10008da0.js.map",
+    "main.2338e420.js.map": "/static/js/main.2338e420.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9de79902.css",
-    "static/js/main.10008da0.js"
+    "static/js/main.2338e420.js"
   ]
 }
